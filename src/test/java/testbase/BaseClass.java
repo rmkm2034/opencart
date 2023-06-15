@@ -56,7 +56,7 @@ public class BaseClass {
 		driver.manage().deleteAllCookies();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		
-		driver.get("https://tutorialsninja.com/demo/index.php");
+		driver.get("http://tutorialsninja.com/demo/index.php");
 		driver.manage().window().maximize();
 		
 	}

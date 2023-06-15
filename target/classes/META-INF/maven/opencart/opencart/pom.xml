@@ -14,7 +14,7 @@
         
        <configuration>
 		   <suiteXmlFiles>
-			             <suiteXmlFile>testing.xml</suiteXmlFile>
+			             <suiteXmlFile>testing.Xml</suiteXmlFile>
 		   </suiteXmlFiles>
 	   </configuration>
 	   </plugin>
